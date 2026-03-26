@@ -1,0 +1,128 @@
+2026-03-26 11:21:35,033 | INFO | Starting Paper Trading Engine — Phase 6
+2026-03-26 11:21:35,049 | INFO | Assets: ['BTC', 'ETH']
+2026-03-26 11:21:35,050 | INFO | Initial capital: $10,000.00
+2026-03-26 11:21:35,050 | INFO | Max drawdown limit: 15%
+2026-03-26 11:21:35,050 | INFO | Loading models...
+2026-03-26 11:21:56,569 | INFO | Connecting to exchange...
+2026-03-26 11:27:22,468 | INFO | Starting Paper Trading Engine — Phase 6
+2026-03-26 11:27:22,469 | INFO | Assets: ['BTC', 'ETH']
+2026-03-26 11:27:22,469 | INFO | Initial capital: $10,000.00
+2026-03-26 11:27:22,470 | INFO | Max drawdown limit: 15%
+2026-03-26 11:27:22,470 | INFO | Loading models...
+2026-03-26 11:27:28,260 | INFO | Connecting to exchange...
+2026-03-26 11:27:30,174 | INFO | All systems ready. Starting trading loop.
+
+2026-03-26 11:27:30,175 | INFO | =======================================================
+2026-03-26 11:27:30,175 | INFO | Trading cycle started at 2026-03-26 11:27
+2026-03-26 11:27:32,464 | INFO |   Data fetched: 300 1h candles
+2026-03-26 11:27:33,036 | INFO |   Signal: HOLD   size=0% | P(sell)=0.140 P(hold)=0.657 P(buy)=0.203
+2026-03-26 11:27:33,040 | INFO |   HOLD — flat, no position
+2026-03-26 11:27:34,758 | INFO |   Data fetched: 300 1h candles
+2026-03-26 11:27:34,822 | INFO |   Signal: HOLD   size=0% | P(sell)=0.497 P(hold)=0.327 P(buy)=0.176
+2026-03-26 11:27:34,823 | INFO |   HOLD — flat, no position
+2026-03-26 11:27:35,128 | INFO | 
+  Portfolio: $0.00 | Return: -100.00%
+2026-03-26 11:27:35,129 | INFO | =======================================================
+2026-03-26 11:27:35,130 | INFO | Scheduler running. Next cycle at :01 of the next hour.
+2026-03-26 11:27:35,133 | INFO | Press Ctrl+C to stop.
+
+2026-03-26 11:32:44,276 | INFO | 
+Shutdown requested. Closing positions...
+2026-03-26 11:32:44,685 | INFO | Paper trading stopped cleanly.
+2026-03-26 11:37:18,721 | INFO | Starting Paper Trading Engine — Phase 6
+2026-03-26 11:37:18,725 | INFO | Assets: ['BTC', 'ETH']
+2026-03-26 11:37:18,726 | INFO | Initial capital: $10,000.00
+2026-03-26 11:37:18,726 | INFO | Max drawdown limit: 15%
+2026-03-26 11:37:18,727 | INFO | Loading models...
+2026-03-26 11:37:29,810 | INFO | Connecting to exchange...
+2026-03-26 11:41:05,592 | INFO | Starting Paper Trading Engine — Phase 6
+2026-03-26 11:41:05,596 | INFO | Assets: ['BTC', 'ETH']
+2026-03-26 11:41:05,596 | INFO | Initial capital: $10,000.00
+2026-03-26 11:41:05,596 | INFO | Max drawdown limit: 15%
+2026-03-26 11:41:05,597 | INFO | Loading models...
+2026-03-26 11:41:12,031 | INFO | Connecting to exchange...
+2026-03-26 11:41:13,016 | INFO | All systems ready. Starting trading loop.
+
+2026-03-26 11:41:13,017 | INFO | =======================================================
+2026-03-26 11:41:13,017 | INFO | Trading cycle started at 2026-03-26 11:41
+2026-03-26 11:41:17,257 | INFO |   Data fetched: 300 1h candles
+2026-03-26 11:41:17,481 | INFO |   Signal: HOLD   size=0% | P(sell)=0.096 P(hold)=0.433 P(buy)=0.472
+2026-03-26 11:41:17,482 | INFO |   HOLD — flat, no position
+2026-03-26 11:41:17,483 | WARNING | Position fetch failed for btc: binanceusdm does not have a testnet/sandbox URL for sapi endpoints
+2026-03-26 11:41:17,533 | WARNING | Balance fetch failed: binanceusdm does not have a testnet/sandbox URL for sapi endpoints
+2026-03-26 11:41:18,828 | INFO |   Data fetched: 300 1h candles
+2026-03-26 11:41:18,917 | INFO |   Signal: HOLD   size=0% | P(sell)=0.186 P(hold)=0.423 P(buy)=0.391
+2026-03-26 11:41:18,920 | INFO |   HOLD — flat, no position
+2026-03-26 11:41:18,924 | WARNING | Position fetch failed for eth: binanceusdm does not have a testnet/sandbox URL for sapi endpoints
+2026-03-26 11:41:18,975 | WARNING | Balance fetch failed: binanceusdm does not have a testnet/sandbox URL for sapi endpoints
+2026-03-26 11:41:18,979 | INFO | 
+  Portfolio: $0.00 | Return: -100.00%
+2026-03-26 11:41:18,979 | INFO | =======================================================
+2026-03-26 11:41:18,980 | INFO | Scheduler running. Next cycle at :01 of the next hour.
+2026-03-26 11:41:18,980 | INFO | Press Ctrl+C to stop.
+
+2026-03-26 11:46:13,522 | INFO | 
+Shutdown requested. Closing positions...
+2026-03-26 11:46:13,552 | INFO | Paper trading stopped cleanly.
+2026-03-26 11:46:41,093 | INFO | Starting Paper Trading Engine -- Phase 6
+2026-03-26 11:46:41,094 | INFO | Assets: ['BTC', 'ETH']
+2026-03-26 11:46:41,095 | INFO | Initial capital: $10,000.00
+2026-03-26 11:46:41,095 | INFO | Max drawdown limit: 15%
+2026-03-26 11:46:41,095 | INFO | Loading models...
+2026-03-26 11:46:46,209 | INFO | Connecting to exchange...
+2026-03-26 11:46:47,162 | INFO | All systems ready. Starting trading loop.
+
+2026-03-26 11:46:47,163 | INFO | =======================================================
+2026-03-26 11:46:47,163 | INFO | Trading cycle started at 2026-03-26 11:46
+2026-03-26 11:46:47,163 | INFO | 
+--- BTC ---
+2026-03-26 11:46:50,039 | INFO |   Data fetched: 300 1h candles
+2026-03-26 11:46:50,341 | INFO |   Signal: HOLD   size=0% | P(sell)=0.096 P(hold)=0.433 P(buy)=0.472
+2026-03-26 11:46:50,342 | INFO |   HOLD -- flat, no position
+2026-03-26 11:46:50,500 | WARNING | Balance fetch failed: binanceusdm {"code":-5000,"msg":"Path /fapi/v1/account, Method GET is invalid"}
+2026-03-26 11:46:50,501 | INFO | 
+--- ETH ---
+2026-03-26 11:46:51,768 | INFO |   Data fetched: 300 1h candles
+2026-03-26 11:46:51,849 | INFO |   Signal: HOLD   size=0% | P(sell)=0.148 P(hold)=0.438 P(buy)=0.414
+2026-03-26 11:46:51,850 | INFO |   HOLD -- flat, no position
+2026-03-26 11:46:52,004 | WARNING | Balance fetch failed: binanceusdm {"code":-5000,"msg":"Path /fapi/v1/account, Method GET is invalid"}
+2026-03-26 11:46:52,005 | INFO | 
+  Portfolio: $10,000.00 | Return: +0.00%
+2026-03-26 11:46:52,005 | INFO | =======================================================
+2026-03-26 11:46:52,006 | INFO | Scheduler running. Next cycle at :01 of the next hour.
+2026-03-26 11:46:52,006 | INFO | Press Ctrl+C to stop.
+
+2026-03-26 11:51:14,011 | INFO | 
+Shutdown requested. Closing positions...
+2026-03-26 11:51:14,026 | INFO | Paper trading stopped cleanly.
+2026-03-26 16:53:24,906 | INFO | Starting Paper Trading Engine -- Phase 6
+2026-03-26 16:53:24,908 | INFO | Assets: ['BTC', 'ETH']
+2026-03-26 16:53:24,909 | INFO | Initial capital: $10,000.00
+2026-03-26 16:53:24,909 | INFO | Max drawdown limit: 15%
+2026-03-26 16:53:24,909 | INFO | Loading models...
+2026-03-26 16:53:38,907 | INFO | Connecting to exchange...
+2026-03-26 16:53:39,630 | INFO | All systems ready. Starting trading loop.
+
+2026-03-26 16:53:39,633 | INFO | =======================================================
+2026-03-26 16:53:39,660 | INFO | Trading cycle started at 2026-03-26 16:53
+2026-03-26 16:53:39,668 | INFO | 
+--- BTC ---
+2026-03-26 16:53:43,730 | INFO |   Data fetched: 300 1h candles
+2026-03-26 16:53:44,490 | INFO |   Signal: HOLD   size=0% | P(sell)=0.177 P(hold)=0.495 P(buy)=0.328
+2026-03-26 16:53:44,495 | INFO |   HOLD -- flat, no position
+2026-03-26 16:53:44,688 | WARNING | Balance fetch failed: binanceusdm {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-03-26 16:53:44,699 | INFO | 
+--- ETH ---
+2026-03-26 16:53:45,952 | INFO |   Data fetched: 300 1h candles
+2026-03-26 16:53:46,168 | INFO |   Signal: HOLD   size=0% | P(sell)=0.215 P(hold)=0.342 P(buy)=0.444
+2026-03-26 16:53:46,168 | INFO |   HOLD -- flat, no position
+2026-03-26 16:53:46,326 | WARNING | Balance fetch failed: binanceusdm {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-03-26 16:53:46,328 | INFO | 
+  Portfolio: $10,000.00 | Return: +0.00%
+2026-03-26 16:53:46,328 | INFO | =======================================================
+2026-03-26 16:53:46,330 | INFO | Scheduler running. Next cycle at :01 of the next hour.
+2026-03-26 16:53:46,330 | INFO | Press Ctrl+C to stop.
+
+2026-03-26 16:57:09,383 | INFO | 
+Shutdown requested. Closing positions...
+2026-03-26 16:57:09,757 | INFO | Paper trading stopped cleanly.

@@ -1,0 +1,10 @@
+ccxt
+python-dotenv
+stable-baselines3
+xgboost
+lightgbm
+scikit-learn
+pandas
+numpy
+schedule
+requests
