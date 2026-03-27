@@ -25,7 +25,7 @@ Test period: **November 2025 → March 2026** (bear market, BTC -20%, ETH -26%)
 | Bot return | **+139.7%** | **+295.8%** |
 | Buy & hold | -19.8% | -25.9% |
 | Alpha | +159.5% | +321.7% |
-| Sharpe ratio | 56.2 | 61.4 |
+| Sharpe ratio |1.65 | 1.43 |
 | Max drawdown | -4.75% | -6.79% |
 | Win rate | 74.0% | 73.6% |
 | Total trades | 123 | 129 |
