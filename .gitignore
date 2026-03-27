@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Large model files
+data/models/*.pkl
+data/rl/*.zip
+data/processed/*.pkl
+data/raw/*.csv
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
